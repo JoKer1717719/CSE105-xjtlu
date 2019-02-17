@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package lab2;
 
 /*
@@ -5,6 +6,9 @@ package lab2;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+=======
+
+>>>>>>> add week 3-13
 
 /**
  *
@@ -24,7 +28,11 @@ public class Calculations {
 //        System.out.println("The result is: " + result );
 //        System.out.println(num1 + "*" + num2 + "+" + num3 + "-" + num4 + "/" + num4 + "= " + result );
 
+<<<<<<< HEAD
           //Variable Types and Calculations â€“ Ints and Mods
+=======
+          //Variable Types and Calculations â€? Ints and Mods
+>>>>>>> add week 3-13
           int num1 = 2;
           int num2 = 3;
           int solution1;
@@ -42,7 +50,11 @@ public class Calculations {
           System.out.println("The solution to num1%num2 is " + solution4);
           
           
+<<<<<<< HEAD
           //Variable Types and Calculations â€“ Doubles and Operator Precedence
+=======
+          //Variable Types and Calculations â€? Doubles and Operator Precedence
+>>>>>>> add week 3-13
           double calcVal1 = 4;
           double calcVal2 = 8;
           double calcVal3 = -1;
@@ -51,7 +63,11 @@ public class Calculations {
           System.out.println("The solution to complexCalc1 is  " + complexCalc1);
           System.out.println("The solution to complexCalc2 is  " + complexCalc2);
           
+<<<<<<< HEAD
           //Variable Types and Calculations â€“ Maths and Randoms
+=======
+          //Variable Types and Calculations â€? Maths and Randoms
+>>>>>>> add week 3-13
           double pi = Math.PI ;
           System.out.println(pi);
           System.out.println("The value of Pi is "+ Math.PI);
