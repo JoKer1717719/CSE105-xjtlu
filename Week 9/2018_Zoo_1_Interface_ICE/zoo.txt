@@ -1,0 +1,1 @@
+ImageDisplay, myX=200, myY=200, myWidth=200,myHeight=200,myPath=res\duck.png
