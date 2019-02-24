@@ -28,3 +28,5 @@ Week 10: Zoo: Final
 Week 12: Date and Time / String Concatenation / Java key words revision
 
 Week 13: Recursion / Collection Framework introduction
+
+Coursework 3: An interesting game "My Garden".
