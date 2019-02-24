@@ -1,0 +1,142 @@
+Flowerbed,flowerbed\flowerbed.jpg,100,100,200,200,1,0
+
+Flowers,res/Purple flower.png,64,25,25,0
+
+Flowerbed,flowerbed\flowerbed.jpg,400,400,200,200,2,1
+
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Pink flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+Striped Flower,res/Green flower.png,1,25,25,1
+
+Flowerbed,flowerbed\flowerbed.jpg,400,100,200,200,3,2
+
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Pink flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Red flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+Striped Flower,res/Green flower.png,1,25,25,2
+
+Flowerbed,flowerbed\flowerbed.jpg,100,400,200,200,1,0
+
+Flowers,res/Yellow flower.png,64,25,25,0
+
