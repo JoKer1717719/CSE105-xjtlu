@@ -1,5 +1,5 @@
 # CSE105-xjtlu
-Learning fundamental Java 
+Learning fundamental Java  (Course CSE105 in Senior 2 from Sep to Dec 2018)
 
 My solutions to lab tasks and homework.
 
