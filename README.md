@@ -1,5 +1,21 @@
 # CSE105-xjtlu
-Learning fundamental Java  (Course CSE105 in Senior 2 from Sep to Dec 2018)
+
+-Y2 SEM1 Sep-Dec, 2018
+
+
+**Module Code: CSE105**
+
+**Module Title: Introduction to Programming in Java**
+
+**Module Credits: 5.00**
+
+**Semester: SEM1**
+
+**Originating Department: Computer Science and Software Engineering**
+
+**Pre-requisites: N/A**
+
+
 
 My solutions to lab tasks and homework.
 
